@@ -1,9 +1,16 @@
-[![MasterHead](https://adyraj.medium.com/neural-network-and-its-use-case-33fb62d131ba)]
+
+
+<a href="https://rishavchanda.io">
+  <img align="center" src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" alt="MasterHead" width="1500" height="500">
+</a>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Shivpriya Mane</h1>
 <h3 align="center">MSIS graduate Student at Northeastern University</h3>
-add Right Gif Image
-<img align="right" alt="Coding" width="400" src= https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">
+add Right Gif Image<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivpriyamane20&label=Profile%20views&color=0e75b6&style=flat" alt="shivpriyamane20" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
