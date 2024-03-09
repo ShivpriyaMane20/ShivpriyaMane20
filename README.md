@@ -48,7 +48,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shivpriya Mane</title>
+  
 </head>
 <body>
   <h3 align="left">Languages and Tools:</h3>
