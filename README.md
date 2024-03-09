@@ -27,6 +27,8 @@
   <div style="clear:both;">
     <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
   </div>
+  
+
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivpriyamane20&label=Profile%20views&color=0e75b6&style=flat" alt="shivpriyamane20" /> </p>
 
@@ -54,7 +56,7 @@
     <!-- Insert your icons and links to your technologies here -->
   </p>
 
-  <div align="left">
+  <div align="right">
     <a href="https://github.com/shivpriyamane20">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivpriyamane20&theme=blue-green&show_icons=true" />  
     </a>
