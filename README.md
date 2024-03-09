@@ -56,7 +56,7 @@
     <!-- Insert your icons and links to your technologies here -->
   </p>
 
-  <div align="right">
+  <div align="left">
     <a href="https://github.com/shivpriyamane20">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivpriyamane20&theme=blue-green&show_icons=true" />  
     </a>
