@@ -39,7 +39,7 @@
 
 
   <div style="clear:both;">
-    <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+    <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
   </div>
 
 <h3 align="left">Languages and Tools:</h3>
