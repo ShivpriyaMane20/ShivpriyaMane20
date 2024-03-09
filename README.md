@@ -64,7 +64,7 @@
   </div>
 
   <!-- Using a flex container to align images side by side -->
-  <div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="display: flex; justify-content: space-between; align-items: right;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivpriyamane20&theme=blue-green&layout=compact" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivpriyamane20&theme=dark" alt="shivpriyamane20" />
   </div>
