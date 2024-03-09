@@ -40,29 +40,3 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shivpriya Mane</title>
-</head>
-<body>
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left"> 
-    <!-- Insert your icons and links to your technologies here -->
-  </p>
-
-  <div align="left">
-    <a href="https://github.com/shivpriyamane20">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivpriyamane20&theme=blue-green&show_icons=true" />  
-    </a>
-  </div>
-
-  <!-- Using a flex container to align images side by side -->
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivpriyamane20&theme=blue-green&layout=compact" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivpriyamane20&theme=dark" alt="shivpriyamane20" />
-  </div>
-</body>
-</html>
