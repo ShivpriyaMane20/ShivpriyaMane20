@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shivpriya Mane</title>
+  
 </head>
 <body>
   <a href="https://rishavchanda.io">
@@ -14,12 +14,15 @@
   <h3 align="center">MSIS graduate Student at Northeastern University</h3>
 
   <p align="center">
-    <strong>As a fervent advocate for data-driven solutions, I dance with Python and SQL, turning intricate data concepts into a symphony for diverse audiences. My backstage is adorned with contributions to research in medical and fintech realms, where data unveils secrets.</strong>
+    <strong>🌟As a fervent advocate for data-driven solutions, I dance with Python and SQL, turning intricate data concepts into a symphony for diverse audiences. My backstage is adorned with contributions to research in medical and fintech realms, where data unveils secrets.</strong>
   </p>
 
   <p align="center">
-    🌟 Currently tuning up for Data Science and Machine Learning internships in the hot Summer of 2024. Dive into my GitHub galaxy; it's a constellation of skills, projects, and a touch of magic. Your connection is a key to unlock innovation – let's compose brilliance together! 🔍✨
+    🌟 Currently tuning up for Data Science and Machine Learning internships in the hot Summer of 2024. Dive into my GitHub galaxy; it's a constellation of skills, projects, and a touch of magic. Your connection is a key to unlock innovation – let's compose brilliance together! 🔍
   </p>
+<p align="center">
+  🌟 📫 Reach out to me at <a href="mailto:mane.shi@northeastern.edu">mane.shi@northeastern.edu</a>.
+</p>
 
   <div style="clear:both;">
     <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
@@ -35,7 +38,9 @@
     <a href="https://www.leetcode.com/shivpriya2041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivpriya2041" height="30" width="40" /></a>
   </p>
 
- <!DOCTYPE html>
+
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -48,23 +53,15 @@
     <!-- Insert your icons and links to your technologies here -->
   </p>
 
-  <div style="display:flex; justify-content:center;">
-    <div style="flex: 1; text-align: center;">
-      <a href="https://github.com/shivpriyamane20">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivpriyamane20&theme=dark&show_icons=true" />
-      </a>
-      <p>Most Used Language: Python</p>
-    </div>
-
-  <div style="flex: 1; text-align: center;">
-      <a href="https://github.com/shivpriyamane20">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivpriyamane20&theme=dark&layout=compact" />
-      </a>
-      <p>Most Used Language: Python</p>
-    </div>
+  <div align="left">
+    <a href="https://github.com/shivpriyamane20">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivpriyamane20&theme=blue-green&show_icons=true" />  
+    </a>
   </div>
 
-  <div style="text-align:center;">
+  <!-- Using a flex container to align images side by side -->
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivpriyamane20&theme=blue-green&layout=compact" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivpriyamane20&theme=dark" alt="shivpriyamane20" />
   </div>
 </body>
