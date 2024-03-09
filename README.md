@@ -55,7 +55,7 @@
   
 </head>
 <body>
-  <h3 align="left">Languages and Tools:</h3>
+  
   <p align="left"> 
     <!-- Insert your icons and links to your technologies here -->
   </p>
